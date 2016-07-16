@@ -1,0 +1,128 @@
+macro -f provider.cpp  -o provider.c
+ls
+mv provider.c result/
+rm *elf
+ls
+cp ../experiment4/rest/experiment.cpp  .
+ls
+./bar.elf 
+./pro.elf 
+./pro.elf 
+./pro.elf 
+./pro.elf 
+ls
+gcc-config -l
+cd
+ls
+rm .wine/user.reg
+rm -rf .wine/drive_c/Program Files/QQ
+ls
+cd .wine/
+ls
+cd drive_c/
+ls
+rm windows/system32/msls31.dll
+cd windows
+cd system32/
+rm riched32.dll
+rm iphlpapi.dll 
+rm -rf Macromed
+rm msvcrt.dll 
+cd ../user
+cd ..
+ls
+cd ..
+cd users/
+cd Public/
+cd Documents/
+ls
+cd Tencent/
+rm QQ/UserDataInfo.ini 
+cd ..
+ls
+ls
+ls
+ls
+make clean
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+rm out
+ls
+./try.elf 
+ls
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+ls
+./try.elf 
+ls
+./try.elf 
+./try.elf 
+./try.elf 
+ls
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+./try.elf 
+g++ `pkg-config --libs --cflags opencv` face_detected.cpp -o out
+g++ `pkg-config --libs --cflags opencv` face_detected.cpp -o out
+ls
+make clean
+make clean
+make clean
+make clean
+make clean
+make
+make clean
+make clean
+make clean
+ls
+rm train
+ls
+make
+make clean
+make clean
+make clean
+make clean
+make
+make clean
+make clean
+make clean
+make clean
+make clean
+make clean
+make clean
+make clean
+make clean
+make clean
+make clean
+g++ `pkg-config --libs --cflags opencv` try.cpp -o try
+g++ `pkg-config --libs --cflags opencv` try.cpp -o try
+cat Makefile 
+g++ `pkg-config --libs --cflags opencv` try.cpp -o try
+g++ `pkg-config --libs --cflags opencv` try.cpp -o try
+g++ `pkg-config --libs --cflags opencv` try.cpp -o try
+ls
+make
+g++ `pkg-config --libs --cflags opencv` train.cpp  -o try
+rm train
+make

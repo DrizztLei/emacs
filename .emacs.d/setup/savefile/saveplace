@@ -1,0 +1,204 @@
+;;; -*- coding: utf-8 -*-
+(("/home/elvis/.emacs.d/setup/savefile/recentf" . 17985)
+ ("/home/elvis/work/opencv/pattern_recognition/train.cpp" . 469)
+ ("/home/elvis/work/opencv/face/"
+  (dired-filename . "/home/elvis/work/opencv/face/.."))
+ ("/home/elvis/work/opencv/"
+  (dired-filename . "/home/elvis/work/opencv/cascade_classifier"))
+ ("/home/elvis/work/opencv/cascade_classifier/"
+  (dired-filename . "/home/elvis/work/opencv/cascade_classifier/try.cpp"))
+ ("/home/elvis/work/opencv/cascade_classifier/try.cpp" . 2740)
+ ("/home/elvis/work/opencv/pattern_recognition/tool.cpp" . 6213)
+ ("/usr/include/opencv2/"
+  (dired-filename . "/usr/include/opencv2/face.hpp"))
+ ("/sudo:root@localhost:/usr/include/opencv2/face.hpp" . 12759)
+ ("/home/elvis/work/"
+  (dired-filename . "/home/elvis/work/.."))
+ ("/home/elvis/"
+  (dired-filename . "/home/elvis/.."))
+ ("/home/"
+  (dired-filename . "/home/.."))
+ ("/"
+  (dired-filename . "/usr"))
+ ("/usr/"
+  (dired-filename . "/usr/include"))
+ ("/usr/include/"
+  (dired-filename . "/usr/include/opencv2"))
+ ("/home/elvis/work/opencv/pattern_recognition/try.cpp" . 675)
+ ("/home/elvis/work/opencv/pattern_recognition/"
+  (dired-filename . "/home/elvis/work/opencv/pattern_recognition/target.cpp"))
+ ("/home/elvis/work/opencv/pattern_recognition/target.cpp" . 3902)
+ ("/home/elvis/work/opencv/cascade_classifier/temp.cpp" . 1190)
+ ("/home/elvis/work/opencv/pattern_recognition/detect_recog.cpp" . 251)
+ ("/home/elvis/work/opencv/pattern_recognition/detect_recog.h" . 241)
+ ("/sudo:root@localhost:/usr/include/opencv2/core/core.hpp" . 2367)
+ ("/home/elvis/work/opencv/pattern_recognition/Makefile" . 119)
+ ("/home/elvis/enviroment/iot-sol/README.md" . 2221)
+ ("/home/elvis/work/opencv/svm/svm.cpp" . 1012)
+ ("/home/elvis/work/opencv/recognition/face.cpp" . 116)
+ ("/home/elvis/work/opencv/face/face.cpp" . 1139)
+ ("/home/elvis/work/opencv/cascade_classifier/detected.cpp" . 1101)
+ ("/home/elvis/work/opencv/sobel_derivatives/s_d.cpp" . 1302)
+ ("/home/elvis/work/js/"
+  (dired-filename . "/home/elvis/work/js/.."))
+ ("/home/elvis/work/js/experiment-2.js" . 33)
+ ("/home/elvis/work/js/anti_block.js" . 114)
+ ("/home/elvis/work/os/"
+  (dired-filename . "/home/elvis/work/os/experiment6"))
+ ("/home/elvis/work/os/experiment6/"
+  (dired-filename . "/home/elvis/work/os/experiment6/OneWay.cpp"))
+ ("/home/elvis/work/os/experiment6/OneWay.cpp" . 31)
+ ("/home/elvis/Documents/os/os.org" . 140)
+ ("/home/elvis/work/os/experiment5/customer.c" . 6306)
+ ("/home/elvis/work/learn/english.org" . 2042)
+ ("/home/elvis/work/C#/AdvanceSQL/AdvanceSQL/AdvanceSQL/Node.cs" . 2374)
+ ("/home/elvis/work/C#/AdvanceSQL/AdvanceSQL/AdvanceSQL/Main.cs" . 328)
+ ("/home/elvis/work/C#/AdvanceSQL/AdvanceSQL/AdvanceSQL/Trie.cs" . 6236)
+ ("/home/elvis/work/os/experiment5/"
+  (dired-filename . "/home/elvis/work/os/experiment5/customer.c"))
+ ("/home/elvis/work/os/experiment5/experiment.cpp" . 313)
+ ("/home/elvis/work/ML/"
+  (dired-filename . "/home/elvis/work/ML/.."))
+ ("/home/elvis/work/ML/tensflow/"
+  (dired-filename . "/home/elvis/work/ML/tensflow/init.py"))
+ ("/home/elvis/work/ML/tensflow/init.py" . 82)
+ ("/home/elvis/work/os/experiment6/Makefile" . 112)
+ ("/sudo:root@localhost:/usr/share/binutils-data/x86_64-pc-linux-gnu/2.25.1/info/gprof.info" . 112837)
+ ("/home/elvis/work/os/experiment5/barber.c" . 32)
+ ("/home/elvis/work/os/experiment5/message.h" . 743)
+ ("/home/elvis/work/os/experiment4/"
+  (dired-filename . "/home/elvis/work/os/experiment4/provider.cpp"))
+ ("/home/elvis/work/os/experiment4/provider.cpp" . 1671)
+ ("/home/elvis/work/os/experiment6/out.elf" . 8826)
+ ("/home/elvis/work/os/experiment4/smoker.cpp" . 4089)
+ ("/sudo:root@localhost:/usr/lib/gcc/x86_64-pc-linux-gnu/5.3.0/include/g++-v5/iostream" . 829)
+ ("/../"
+  (dired-filename . "/../home"))
+ ("/../home/"
+  (dired-filename . "/../home/elvis"))
+ ("/../home/elvis/"
+  (dired-filename . "/../home/elvis/work"))
+ ("/../home/elvis/work/project/oop/"
+  (dired-filename . "/../home/elvis/work/project/oop/.."))
+ ("/../home/elvis/work/project/"
+  (dired-filename . "/../home/elvis/work/project/.."))
+ ("/../home/elvis/work/"
+  (dired-filename . "/../home/elvis/work/os"))
+ ("/../home/elvis/work/os/"
+  (dired-filename . "/../home/elvis/work/os/experiment6"))
+ ("/../home/elvis/work/os/experiment6/"
+  (dired-filename . "/../home/elvis/work/os/experiment6/OneWay.cpp"))
+ ("/home/elvis/work/os/experiment5/Makefile" . 132)
+ ("/home/elvis/work/os/experiment3/"
+  (dired-filename . "/home/elvis/work/os/experiment3/dispatch.cpp"))
+ ("/home/elvis/work/os/experiment3/dispatch.cpp" . 3234)
+ ("/home/elvis/Downloads/"
+  (dired-filename . "/home/elvis/Downloads/QQ"))
+ ("/home/elvis/Downloads/QQ/"
+  (dired-filename . "/home/elvis/Downloads/QQ/wineQQ"))
+ ("/home/elvis/Downloads/QQ/wineQQ/"
+  (dired-filename . "/home/elvis/Downloads/QQ/wineQQ/wineQQ8.3"))
+ ("/home/elvis/Downloads/QQ/wineQQ/wineQQ8.3/"
+  (dired-filename . "/home/elvis/Downloads/QQ/wineQQ/wineQQ8.3/18038"))
+ ("/home/elvis/Downloads/QQ/wineQQ/wineQQ8.3/18038/"
+  (dired-filename . "/home/elvis/Downloads/QQ/wineQQ/wineQQ8.3/18038/delete"))
+ ("/home/elvis/work/os/experiment4/result/smoker.c" . 1223)
+ ("/home/elvis/work/os/experiment4/rest/"
+  (dired-filename . "/home/elvis/work/os/experiment4/rest/.."))
+ ("/home/elvis/work/os/experiment4/result/"
+  (dired-filename . "/home/elvis/work/os/experiment4/result/smoker.c"))
+ ("/sudo:root@localhost:/usr/include/bits/ipc.h" . 1581)
+ ("/home/elvis/work/java/TankSnake/src/MyTankSnake/SnakeMain.java" . 169)
+ ("/home/elvis/work/os/experiment4/Makefile" . 258)
+ ("/home/elvis/work/project/PatternRecognition/"
+  (dired-filename . "/home/elvis/work/project/PatternRecognition/.."))
+ ("/home/elvis/work/project/"
+  (dired-filename . "/home/elvis/work/project/.."))
+ ("/home/elvis/work/project/oop/Command.cpp" . 235)
+ ("/home/elvis/work/project/oop/Client.cpp" . 1229)
+ ("/home/elvis/work/project/oop/Invoker.cpp" . 1488)
+ ("/home/elvis/work/project/oop/CommandSet.cpp" . 1730)
+ ("/home/elvis/work/os/experiment1/"
+  (dired-filename . "/home/elvis/work/os/experiment1/process.cpp"))
+ ("/home/elvis/work/os/experiment1/process.cpp" . 20)
+ ("/home/elvis/work/project/oop/"
+  (dired-filename . "/home/elvis/work/project/oop/Invoker.cpp"))
+ ("/home/elvis/work/project/oop/Receiver.cpp" . 1075)
+ ("/home/elvis/work/project/oop/Makefile" . 84)
+ ("/home/elvis/work/project/oop/main.cpp" . 23)
+ ("/home/elvis/work/algorithms/"
+  (dired-filename . "/home/elvis/work/algorithms/Ackerman.cpp"))
+ ("/../home/elvis/work/os/experiment3/"
+  (dired-filename . "/../home/elvis/work/os/experiment3/dispatch.cpp"))
+ ("/../home/elvis/work/os/experiment3/dispatch.cpp" . 1846)
+ ("/home/elvis/work/project/oop" . 33)
+ ("/home/elvis/enviroment/"
+  (dired-filename . "/home/elvis/enviroment/.."))
+ ("/home/elvis/work/os/experiment3/Makefile" . 46)
+ ("/home/elvis/work/os/experiment2/"
+  (dired-filename . "/home/elvis/work/os/experiment2/control.cpp"))
+ ("/home/elvis/work/os/experiment2/control.cpp" . 2493)
+ ("/home/elvis/work/os/experiment2/Makefile" . 47)
+ ("/home/elvis/work/os/experiment2/thread.cpp" . 315)
+ ("/home/elvis/work/os/experiment2/thread_control.cpp" . 613)
+ ("/home/elvis/work/os/experiment1/chedule/"
+  (dired-filename . "/home/elvis/work/os/experiment1/chedule/process_0.1.cpp"))
+ ("/home/elvis/work/os/experiment1/chedule/process_0.1.cpp" . 3049)
+ ("/home/elvis/work/os/experiment1/test.cpp" . 185)
+ ("/home/elvis/work/os/experiment1/Makefile" . 58)
+ ("/home/elvis/work/project/RNN/rnn.cpp" . 80)
+ ("/home/elvis/work/project/CNN/"
+  (dired-filename . "/home/elvis/work/project/CNN/cnn.cpp"))
+ ("/home/elvis/work/project/CNN/cnn.cpp" . 78)
+ ("/home/elvis/work/lisp/"
+  (dired-filename . "/home/elvis/work/lisp/quicklisp.lisp"))
+ ("/home/elvis/work/cpp/"
+  (dired-filename . "/home/elvis/work/cpp/.."))
+ ("/home/elvis/work/java/"
+  (dired-filename . "/home/elvis/work/java/.."))
+ ("/home/elvis/work/learn/Computer Organization.org" . 3447)
+ ("/home/elvis/work/learn/"
+  (dired-filename . "/home/elvis/work/learn/.."))
+ ("/home/elvis/work/C#/"
+  (dired-filename . "/home/elvis/work/C#/.."))
+ ("/home/elvis/work/lisp/server.lisp" . 19)
+ ("/home/elvis/work/QT/"
+  (dired-filename . "/home/elvis/work/QT/VLC"))
+ ("/home/elvis/work/QT/VLC/"
+  (dired-filename . "/home/elvis/work/QT/VLC/VLC_0.4"))
+ ("/home/elvis/work/QT/VLC/VLC_0.4/"
+  (dired-filename . "/home/elvis/work/QT/VLC/VLC_0.4/multimediawidgets"))
+ ("/home/elvis/work/QT/VLC/VLC_0.4/multimediawidgets/"
+  (dired-filename . "/home/elvis/work/QT/VLC/VLC_0.4/multimediawidgets/player"))
+ ("/home/elvis/work/QT/VLC/VLC_0.4/multimediawidgets/player/"
+  (dired-filename . "/home/elvis/work/QT/VLC/VLC_0.4/multimediawidgets/player/player.pro"))
+ ("/home/elvis/work/QT/VLC/VLC_0.4/multimediawidgets/player/playlistmodel.cpp" . 28)
+ ("/home/elvis/work/QT/VLC/VLC_0.4/multimediawidgets/player/histogramwidget.cpp" . 19301)
+ ("/home/elvis/work/text/"
+  (dired-filename . "/home/elvis/work/text/.."))
+ ("/home/elvis/work/python/handwriting-recognition.py" . 459)
+ ("/home/elvis/.emacs.d/setup/elpa/yatemplate-20151124.2307/yatemplate-autoloads.el" . 541)
+ ("/home/elvis/work/Tool/"
+  (dired-filename . "/home/elvis/work/Tool/Tool"))
+ ("/home/elvis/.emacs.d/setup/elpa/auto-yasnippet-20160223.308/auto-yasnippet-autoloads.el" . 1531)
+ ("/home/elvis/.emacs.d/setup/elpa/yasnippet-20160403.830/"
+  (dired-filename . "/home/elvis/.emacs.d/setup/elpa/yasnippet-20160403.830/.."))
+ ("/home/elvis/.emacs.d/setup/elpa/"
+  (dired-filename . "/home/elvis/.emacs.d/setup/elpa/common-lisp-snippets-readme.txt"))
+ ("/home/elvis/.emacs.d/setup/elpa/common-lisp-snippets-readme.txt" . 138)
+ ("/home/elvis/.emacs.d/setup/elpa/common-lisp-snippets-20150910.347/"
+  (dired-filename . "/home/elvis/.emacs.d/setup/elpa/common-lisp-snippets-20150910.347/.."))
+ ("/home/elvis/.emacs.d/setup/elpa/common-lisp-snippets-20150910.347/common-lisp-snippets-autoloads.el" . 648)
+ ("/home/elvis/.emacs.d/setup/elpa/yasnippet-20160403.830/yasnippet-autoloads.el" . 1535)
+ ("/sudo:root@localhost:/home/eva/data/MNISTNet7.py" . 131)
+ ("/sudo:root@localhost:/home/eva/work/algorithms/calco.cpp" . 56)
+ ("/mnt/1.c" . 295)
+ ("/home/eva/"
+  (dired-filename . "/home/eva/work"))
+ ("/usr/src/"
+  (dired-filename . "/usr/src/.."))
+ ("/../home/eva/"
+  (dired-filename . "/../home/eva/work"))
+ ("/sudo:root@localhost:/home/eva/work/linux/Makefile" . 14)
+ ("/sudo:root@localhost:/usr/include/qt4/Qt3Support/Q3CanvasSprite" . 23)
+ ("/sudo:root@localhost:/usr/share/emacs/24.5/lisp/international/mule.el" . 12914))
